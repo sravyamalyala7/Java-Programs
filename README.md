@@ -26,6 +26,17 @@ This repository contains Java programs and coding exercises that help me strengt
 - Custom Exceptions
 - Try-Catch-Finally
 
+### Object-Oriented Programming (OOP)
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- OOP Principles Demo
+
+### File Handling
+- RandomAccessFile Example
+- Reading and Writing Files using RandomAccessFile
+
 ## Goal
 To improve problem-solving skills and build a strong foundation in Java programming.
 
