@@ -43,6 +43,11 @@ This repository contains Java programs and coding exercises that help me strengt
 - For Loop
 - Control Statements Demo
 
+### Java Basics
+- Addition of Two Numbers
+- Simple Calculator
+- Data Types Demo
+
 ## Goal
 To improve problem-solving skills and build a strong foundation in Java programming.
 
