@@ -53,6 +53,11 @@ This repository contains Java programs and coding exercises that help me strengt
 - Largest Element in Array
 - Reverse Array
 
+### Strings
+- Reverse String
+- Palindrome String
+- Count Vowels in a String
+
 ## Goal
 To improve problem-solving skills and build a strong foundation in Java programming.
 
