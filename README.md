@@ -63,6 +63,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Palindrome String
 - Count Vowels in a String
 - Character Frequency Counter
+- Anagram Check
 
 ### Collections Framework
 - ArrayList Demo
