@@ -75,6 +75,7 @@ This repository contains Java programs and coding exercises that help me strengt
 
 ### Methods
 - Employee Salary Calculator
+- Prime Number Using Method
 
 ### Mini Projects
 - Bank Account Management System
