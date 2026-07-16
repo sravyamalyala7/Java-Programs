@@ -64,6 +64,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Count Vowels in a String
 - Character Frequency Counter
 - Anagram Check
+- Password Strength Checker
 
 ### Collections Framework
 - ArrayList Demo
