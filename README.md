@@ -66,6 +66,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Character Frequency Counter
 - Anagram Check
 - Password Strength Checker
+- Longest Word in a Sentence
 
 ### Collections Framework
 - ArrayList Demo
