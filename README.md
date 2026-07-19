@@ -58,6 +58,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Largest Element in Array
 - Reverse Array
 - Remove Duplicate Elements from an Array
+- Rotate Array
 
 ### Strings
 - Reverse String
