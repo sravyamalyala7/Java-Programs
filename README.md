@@ -59,6 +59,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Reverse Array
 - Remove Duplicate Elements from an Array
 - Rotate Array
+- Merge Two Arrays
 
 ### Strings
 - Reverse String
