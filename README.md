@@ -60,6 +60,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Remove Duplicate Elements from an Array
 - Rotate Array
 - Merge Two Arrays
+- Move All Zeros to the End
 
 ### Strings
 - Reverse String
