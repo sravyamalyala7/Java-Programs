@@ -62,6 +62,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Merge Two Arrays
 - Move All Zeros to the End
 - Leaders in an Array
+- Second Largest Element in an Array
 
 ### Strings
 - Reverse String
