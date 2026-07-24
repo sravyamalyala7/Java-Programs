@@ -64,6 +64,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Leaders in an Array
 - Second Largest Element in an Array
 - Find Missing Number in an Array
+- Find Second Smallest Element
 
 ### Strings
 - Reverse String
