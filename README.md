@@ -66,6 +66,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Find Missing Number in an Array
 - Find Second Smallest Element
 - Check if Array is Sorted
+- Find Duplicate Elements in an Array
 
 ### Strings
 - Reverse String
