@@ -37,6 +37,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Method Overriding
 - Abstract Class
 - Interface Example
+- Student Grade Calculator
 
 ### File Handling
 - RandomAccessFile Example
