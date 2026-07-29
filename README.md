@@ -77,6 +77,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Anagram Check
 - Password Strength Checker
 - Longest Word in a Sentence
+- String Compression
 
 ### Collections Framework
 - ArrayList Demo
