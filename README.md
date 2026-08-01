@@ -68,7 +68,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Find Second Smallest Element
 - Check if Array is Sorted
 - Find Duplicate Elements in an Array
-
+- Find Intersection of Two Arrays
 ### Strings
 - Reverse String
 - Palindrome String
